@@ -25,7 +25,7 @@ This project focuses on generating high-quality images from textual descriptions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-to-image-generation.git
+   https://github.com/Gaurav-Jaiswal-1/Image-Generation.git
    ```
 2. Install dependencies:
    ```bash
