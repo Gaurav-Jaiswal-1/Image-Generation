@@ -56,4 +56,3 @@ This repository contains an implementation of a **Deep Learning-based Image Gene
 We welcome contributions! Feel free to open an issue or submit a pull request for any improvements.
 
 
-Let me know if you want any additional details or adjustments!
