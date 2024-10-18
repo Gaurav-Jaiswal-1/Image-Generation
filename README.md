@@ -1,4 +1,3 @@
-Here’s a **GitHub README** description for an **Image Generation** project:
 
 ---
 
