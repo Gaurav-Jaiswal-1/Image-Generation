@@ -33,7 +33,7 @@ This repository contains an implementation of a **Deep Learning-based Image Gene
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/image-generation.git
+    https://github.com/Gaurav-Jaiswal-1/Image-Generation.git
     ```
 2. Install dependencies:
     ```bash
