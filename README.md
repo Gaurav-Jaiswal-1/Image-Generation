@@ -1,5 +1,4 @@
 
-
 # Text-to-Image Generation
 
 This project focuses on generating high-quality images from textual descriptions without using any pre-trained models or external APIs. The goal is to build a fully custom model using neural networks, capable of understanding textual inputs and translating them into visually coherent images. This project adheres to industry-standard project structures, ensuring modularity, scalability, and ease of future extensions.
